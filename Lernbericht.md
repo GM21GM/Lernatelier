@@ -13,7 +13,7 @@ Das Zielen mit der Maus.
 
 Valorant war das erste Spiel, welches ich mit Maus und Tastatur gespielt habe. Deswegen war das erste, was ich mir angeeignet habe, mit der Maus besser zielen zu können ,um dem Team, trotz weniger Erfahrung trotzdem weiter helfen zu können. Gelernt habe ich teilweise durch Spielpraxis, aber auch durchs Trainieren im Aimlab. 
 
-Dieses ![Video](https://www.youtube.com/watch?v=GGv833qHMy8) habe ich benutzt um die Optimalen Einstellungen zu finden, damit ich es einfacher im Spiel habe.
+Dieses [Video](https://www.youtube.com/watch?v=GGv833qHMy8) habe ich benutzt um die Optimalen Einstellungen zu finden, damit ich es einfacher im Spiel habe.
 
 ![eigeneStatistik](https://user-images.githubusercontent.com/111045891/185331915-dff3c30f-8cd9-462e-9973-138c5872ba0d.png)
 
