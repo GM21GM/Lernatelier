@@ -19,7 +19,7 @@ Dieses [Video](https://www.youtube.com/watch?v=GGv833qHMy8) habe ich benutzt um 
 
 ## Verifikation
 
-Das Bild stellt dar, dass langsam weiss wie man das Spiel spielt, da ich nach kurzer Spielzeit bereits auf einem etwa Durchschnittsniveau spiele.
+Das Bild stellt dar, dass ich langsam weiss wie man das Spiel spielt, da ich nach kurzer Spielzeit bereits auf einem etwa Durchschnittsniveau spiele.
 
 # Reflektion zum Arbeitsprozess
 
